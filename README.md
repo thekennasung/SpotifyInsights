@@ -1,1 +1,1 @@
-# UIUC-stat440
+# UIUC-stat440-statistical data management
